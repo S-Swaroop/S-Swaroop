@@ -25,7 +25,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+![Express](https://img.shields.io/badge/-Express-61DAFB?style=for-the-badge&logo=express)
+![NextJs](https://img.shields.io/badge/-NextJs-%23F05032?style=for-the-badge&logo=NextJs)
 <br>
+![Netlify](https://img.shields.io/badge/-Netlify-%23F05032?style=for-the-badge&logo=Netlify&logoColor=%23ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-%23F05032?style=for-the-badge&logo=Vercel&logoColor=%23ffffff)
+![Heroku](https://img.shields.io/badge/-Heroku-%23F05032?style=for-the-badge&logo=Heroku&logoColor=%23ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
