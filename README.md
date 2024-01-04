@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=S-Swaroop&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **NextJs, Express, Python, etc.**
+- 🌱 I’m currently learning **NestJs, Java**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/S-Swaroop?tab=repositories)
 
-- 💬 Ask me about **Javascript** || **Competitive Programming** || **C++**
+- 💬 Ask me about **Javascript** || **Nodejs** || **Backend Development** || **Competitive Programming** || **C++**
 
 - 📫 How to reach me **sharan.swaroop17@gmail.com**
 
